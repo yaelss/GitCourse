@@ -1,6 +1,8 @@
 
 Quel est votre genre ? - Choix parmi 'Ne souhaite pas répondre', 'Autre', 'Femme', 'Homme','Plante'
 
+JE M'APPELLE YAEL et je me suis construite dans le rapport de force
+
 Quel est le moyen de transport que vous utilisez le plus pour vos trajets quotidiens ? - Choix unique parmi 'Les transports en commun', 'La marche', 'La voiture', 'Le vélo'
 
 Quelle distance sépare votre lieu d'habitation de votre lieu d'activité principal ? (en km)
