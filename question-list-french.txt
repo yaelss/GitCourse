@@ -1,0 +1,65 @@
+Quel est votre genre ? - Choix parmi 'Ne souhaite pas répondre', 'Autre', 'Femme', 'Homme'
+
+Quel est le moyen de transport que vous utilisez le plus pour vos trajets quotidiens ? - Choix unique parmi 'Les transports en commun', 'La marche', 'La voiture', 'Le vélo'
+
+Quelle distance sépare votre lieu d'habitation de votre lieu d'activité principal ? (en km)
+
+Combien de fois par semaine réalisez-vous l'aller-retour entre votre domicile et votre lieu d'activité principal ?
+
+Quels moyens de transport sont inaccessibles pour vous ? (à cause de contraintes personnelles ou par manque d'infrastructures, par ex pas de transports en commun dans votre lieu de résidence ou de travail). 5 réponses, choix multiple possible, pour chaque réponse "X" si coché, "" sinon
+Le vélo
+La voiture 
+Les transports en commun
+La marche à pied
+Aucun
+
+Précisez la raison si vous le souhaitez. Non fourni dans le dataset pour protéger la vie privée. La chaîne est vide.
+
+Importance des critères de 0 à 10 
+L'écologie : Le moyen de transport a une faible empreinte carbone.
+Le confort : Le moyen de transport est agréable à utiliser.
+L'accessibilité financière : Le moyen de transport engendre peu de couts.
+La praticité : Le moyen de transport répond à tous mes besoins sans rajouter de contraintes importantes et m'offre une flexibilité sur mes déplacements.
+La sécurité : Le moyen de transport me permet de me déplacer sans risques (blessures, accidents, agressions).
+La rapidité : Le moyen de transport me permet de me déplacer en peu de temps.
+
+Vélo (valeur du vélo sur tous les critères, de 0 à 10)
+À combien évaluez-vous l'écologie du vélo comme moyen de transport quotidien ?
+À combien évaluez-vous le confort du vélo comme moyen de transport quotidien ?
+À combien évaluez-vous l'accessibilité financière du vélo comme moyen de transport quotidien ?
+À combien évaluez-vous la praticité du vélo comme moyen de transport quotidien ?
+À combien évaluez-vous la rapidité du vélo comme moyen de transport quotidien ?
+À combien évaluez-vous la sécurité du vélo comme moyen de transport quotidien ?
+Avez-vous quelque chose à rajouter sur votre perception du vélo ? Non fourni pour protéger la vie privée, la chaîne est vide.
+
+Voiture (valeur de la voiture sur tous les critères, de 0 à 10)
+À combien évaluez-vous l'écologie de la voiture comme moyen de transport quotidien ?
+À combien évaluez-vous le confort de la voiture comme moyen de transport quotidien ?
+À combien évaluez-vous l'accessibilité financière de la voiture comme moyen de transport quotidien ?
+À combien évaluez-vous la praticité de la voiture comme moyen de transport quotidien ?
+À combien évaluez-vous la rapidité de la voiture comme moyen de transport quotidien ?
+À combien évaluez-vous la sécurité de la voiture comme moyen de transport quotidien ?
+Avez-vous quelque chose à rajouter sur votre perception de la voiture ?
+
+Transports en commun (6 valeurs de 0 à 10)
+À combien évaluez-vous l'écologie des transports en commun comme moyen de transport quotidien ?
+À combien évaluez-vous le confort des transports en commun comme moyen de transport quotidien ?
+À combien évaluez-vous l'accessibilité financière des transports en commun comme moyen de transport quotidien ?
+À combien évaluez-vous la praticité des transports en commun comme moyen de transport quotidien ?
+À combien évaluez-vous la rapidité des transports en commun comme moyen de transport quotidien ?
+À combien évaluez-vous la sécurité des transports en commun comme moyen de transport quotidien ?
+Avez-vous quelque chose à rajouter sur votre perception des transports en commun ? Non fourni dans ce dataset.
+
+Marche à pied (6 valeurs de 0 à 10)
+À combien évaluez-vous l'écologie de la marche à pied comme moyen de transport quotidien ?
+À combien évaluez-vous le confort de la marche à pied comme moyen de transport quotidien ?
+À combien évaluez-vous l'accessibilité financière de la marche à pied comme moyen de transport quotidien ?
+À combien évaluez-vous la praticité de la marche à pied comme moyen de transport quotidien ?
+À combien évaluez-vous la rapidité de la marche à pied comme moyen de transport quotidien ?
+À combien évaluez-vous la sécurité de la marche à pied comme moyen de transport quotidien ?
+Avez-vous quelque chose à rajouter sur votre perception de la marche à pied ? Non fourni dans ce dataset.
+
+Fin du questionnaire. Avez-vous des remarques/commentaires sur le questionnaire ou sur son sujet ? Non fourni dans ce dataset.
+
+
+
