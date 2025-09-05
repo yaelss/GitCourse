@@ -1,4 +1,5 @@
-Quel est votre genre ? - Choix parmi 'Ne souhaite pas répondre', 'Autre', 'Femme', 'Homme','Animal'
+
+Quel est votre genre ? - Choix parmi 'Ne souhaite pas répondre', 'Autre', 'Femme', 'Homme','Plante'
 
 Quel est le moyen de transport que vous utilisez le plus pour vos trajets quotidiens ? - Choix unique parmi 'Les transports en commun', 'La marche', 'La voiture', 'Le vélo'
 
