@@ -1,0 +1,1 @@
+ssh pi@fe80::f93a:88fb:ffbe:bfa4%4
