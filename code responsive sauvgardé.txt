@@ -1,0 +1,34 @@
+/*p{
+    background-color: blanchedalmond;
+    color: black;
+    font-weight: bold;
+    padding: 16px;
+}
+*/
+/* la largeur de la page est defini entre 0 et 600px 
+@media screen and (max-width: 600px) {
+.maxwidth {
+    background-color: blueviolet;
+    color: ;
+}
+}
+/*min width à partir de 768px 
+@media screen and (min-width: 768px) {
+.minwidth {
+    background-color: rgb(202, 116, 116);
+    color: white ;
+}
+/*entre 992px et 1024px
+@media screen and (min-width: 992px) and (max-width: 1024px){
+    .minmaxwidth {
+        background-color: rgb(62, 224, 138);
+        color: white ;
+    }
+/*pour une page en format portrait
+@media screen and (orientation:portrait){
+.portrait{
+    color: cornflowerblue;
+    background-color: coral;
+}
+}
+*/
